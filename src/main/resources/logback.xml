@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration debug="true"> 
+
+	<property name="LOG_FILE_LOCATION" value="logs" />
+<property name="LOG_FILE_NAME" value="flickeruploaderservice" />
+<property name="LOG_FILE_EXTENSION" value=".log" />
+<timestamp key="bySecond" datePattern="yyyyMMdd" />
+
+	<appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+		<layout class="ch.qos.logback.classic.PatternLayout">
+			<Pattern>
+				%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n
+			</Pattern>
+		</layout>
+	</appender>
+
+	<appender name="FILE-AUDIT"
+		class="ch.qos.logback.core.rolling.RollingFileAppender">
+		<file>${LOG_FILE_LOCATION}/${LOG_FILE_NAME}_${bySecond}${LOG_FILE_EXTENSION}</file>
+		<encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+			<!-- 	
+			<Pattern>
+				%d{yyyy-MM-dd HH:mm:ss} - %msg%n
+			</Pattern>
+			-->
+			<Pattern>%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n</Pattern>
+		</encoder>
+
+		<rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+			<!-- rollover daily -->
+			<fileNamePattern>${LOG_FILE_LOCATION}/${LOG_FILE_NAME}_%d{yyyy-MM-dd}.%i${LOG_FILE_EXTENSION}
+                        </fileNamePattern>
+			<timeBasedFileNamingAndTriggeringPolicy
+				class="ch.qos.logback.core.rolling.SizeAndTimeBasedFNATP">
+				<maxFileSize>10000KB</maxFileSize>
+			</timeBasedFileNamingAndTriggeringPolicy>
+		</rollingPolicy>
+
+	</appender>
+
+
+	<!-- Send logs to both console and file audit -->
+	<logger name="com.bay" level="info"
+		additivity="false">
+		<appender-ref ref="FILE-AUDIT" />
+		<!--<appender-ref ref="STDOUT" />-->
+	</logger>
+
+	<root level="INFO">
+		<appender-ref ref="FILE-AUDIT" />
+		<!-- <appender-ref ref="STDOUT" />-->
+	
+	</root>
+
+</configuration>

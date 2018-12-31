@@ -1,0 +1,407 @@
+2018-12-26 17:00:56 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - **********************************************
+2018-12-26 17:00:56 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - Files from main directory : /home/dineshmetkari/Downloads/Record
+2018-12-26 17:00:56 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - **********************************************
+2018-12-26 17:00:56 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180826_190440.mp4
+2018-12-26 17:00:56 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201808
+2018-12-26 17:01:00 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:01:02 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180826_190440.mp4 has already been uploaded on 2018.12.26 14:50:11 PM
+2018-12-26 17:01:02 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 0||UploadCount:1
+
+
+
+2018-12-26 17:01:02 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:01:02 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/Story on 2 April.mp4
+2018-12-26 17:01:02 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getCreationTime:lastModifiedTime :201812
+2018-12-26 17:01:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:01:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/Story on 2 April.mp4 has already been uploaded on 2018.12.26 14:51:15 PM
+2018-12-26 17:01:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 1||UploadCount:2
+
+
+
+2018-12-26 17:01:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:01:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20181006_135205.mp4
+2018-12-26 17:01:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:01:19 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:01:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20181006_135205.mp4 has already been uploaded on 2018.12.26 16:21:50 PM
+2018-12-26 17:01:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 2||UploadCount:3
+
+
+
+2018-12-26 17:01:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:01:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180516_153639.mp4
+2018-12-26 17:01:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:01:25 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:01:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180516_153639.mp4 has already been uploaded on 2018.12.26 15:06:45 PM
+2018-12-26 17:01:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 3||UploadCount:4
+
+
+
+2018-12-26 17:01:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:01:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180513_215420.mp4
+2018-12-26 17:01:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:01:30 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:01:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180513_215420.mp4 has already been uploaded on 2018.12.26 15:07:16 PM
+2018-12-26 17:01:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 4||UploadCount:5
+
+
+
+2018-12-26 17:01:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:01:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180513_214530.mp4
+2018-12-26 17:01:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:01:36 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:01:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180513_214530.mp4 has already been uploaded on 2018.12.26 15:07:56 PM
+2018-12-26 17:01:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 5||UploadCount:6
+
+
+
+2018-12-26 17:01:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:01:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/Happy moments in November, 2017.mp4
+2018-12-26 17:01:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getCreationTime:lastModifiedTime :201812
+2018-12-26 17:01:41 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:01:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/Happy moments in November, 2017.mp4 has already been uploaded on 2018.12.26 15:08:57 PM
+2018-12-26 17:01:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 6||UploadCount:7
+
+
+
+2018-12-26 17:01:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:01:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180714_181223.mp4
+2018-12-26 17:01:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:01:57 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:01:58 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180714_181223.mp4 has already been uploaded on 2018.12.26 15:09:50 PM
+2018-12-26 17:01:58 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 7||UploadCount:8
+
+
+
+2018-12-26 17:01:58 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:01:58 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180516_152217.mp4
+2018-12-26 17:01:58 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:02:00 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:01 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180516_152217.mp4 has already been uploaded on 2018.12.26 15:10:23 PM
+2018-12-26 17:02:01 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 8||UploadCount:9
+
+
+
+2018-12-26 17:02:01 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:01 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20181018_221722.mp4
+2018-12-26 17:02:01 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:02:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:07 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20181018_221722.mp4 has already been uploaded on 2018.12.26 15:11:34 PM
+2018-12-26 17:02:07 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 9||UploadCount:10
+
+
+
+2018-12-26 17:02:07 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:07 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180720_183944.mp4
+2018-12-26 17:02:07 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:02:09 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:09 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180720_183944.mp4 has already been uploaded on 2018.12.26 15:12:41 PM
+2018-12-26 17:02:09 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 10||UploadCount:11
+
+
+
+2018-12-26 17:02:09 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:09 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180929_072928.mp4
+2018-12-26 17:02:09 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201809
+2018-12-26 17:02:11 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180929_072928.mp4 has already been uploaded on 2018.12.26 15:14:01 PM
+2018-12-26 17:02:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 11||UploadCount:12
+
+
+
+2018-12-26 17:02:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180714_172230.mp4
+2018-12-26 17:02:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:02:14 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180714_172230.mp4 has already been uploaded on 2018.12.26 15:14:35 PM
+2018-12-26 17:02:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 12||UploadCount:13
+
+
+
+2018-12-26 17:02:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180516_153454.mp4
+2018-12-26 17:02:15 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:02:17 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180516_153454.mp4 has already been uploaded on 2018.12.26 15:15:12 PM
+2018-12-26 17:02:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 13||UploadCount:14
+
+
+
+2018-12-26 17:02:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180516_152118.mp4
+2018-12-26 17:02:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:02:20 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180516_152118.mp4 has already been uploaded on 2018.12.26 15:15:50 PM
+2018-12-26 17:02:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 14||UploadCount:15
+
+
+
+2018-12-26 17:02:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20181011_215740.mp4
+2018-12-26 17:02:21 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:02:22 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20181011_215740.mp4 has already been uploaded on 2018.12.26 15:16:25 PM
+2018-12-26 17:02:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 15||UploadCount:16
+
+
+
+2018-12-26 17:02:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180516_151928.mp4
+2018-12-26 17:02:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:02:25 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180516_151928.mp4 has already been uploaded on 2018.12.26 15:17:19 PM
+2018-12-26 17:02:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 16||UploadCount:17
+
+
+
+2018-12-26 17:02:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/QUIK_20181005_184834.mp4
+2018-12-26 17:02:26 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:02:28 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/QUIK_20181005_184834.mp4 has already been uploaded on 2018.12.15 23:28:02 PM
+2018-12-26 17:02:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 17||UploadCount:18
+
+
+
+2018-12-26 17:02:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180513_214658.mp4
+2018-12-26 17:02:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:02:31 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180513_214658.mp4 has already been uploaded on 2018.12.26 15:19:09 PM
+2018-12-26 17:02:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 18||UploadCount:19
+
+
+
+2018-12-26 17:02:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20181006_131553.mp4
+2018-12-26 17:02:32 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:02:34 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20181006_131553.mp4 has already been uploaded on 2018.12.26 15:21:22 PM
+2018-12-26 17:02:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 19||UploadCount:20
+
+
+
+2018-12-26 17:02:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20181027_163637.mp4
+2018-12-26 17:02:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:02:37 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20181027_163637.mp4 has already been uploaded on 2018.12.17 22:43:39 PM
+2018-12-26 17:02:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 20||UploadCount:21
+
+
+
+2018-12-26 17:02:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20181011_215539.mp4
+2018-12-26 17:02:38 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:02:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20181011_215539.mp4 has already been uploaded on 2018.12.26 15:23:33 PM
+2018-12-26 17:02:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 21||UploadCount:22
+
+
+
+2018-12-26 17:02:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180516_152653.mp4
+2018-12-26 17:02:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:02:42 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:43 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180516_152653.mp4 has already been uploaded on 2018.12.26 15:24:20 PM
+2018-12-26 17:02:43 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 22||UploadCount:23
+
+
+
+2018-12-26 17:02:43 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:43 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20181027_172305.mp4
+2018-12-26 17:02:43 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:02:45 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20181027_172305.mp4 has already been uploaded on 2018.12.26 15:24:39 PM
+2018-12-26 17:02:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 23||UploadCount:24
+
+
+
+2018-12-26 17:02:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180513_215055.mp4
+2018-12-26 17:02:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:02:48 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:49 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180513_215055.mp4 has already been uploaded on 2018.12.26 15:25:13 PM
+2018-12-26 17:02:49 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 24||UploadCount:25
+
+
+
+2018-12-26 17:02:49 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:49 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180714_172324.mp4
+2018-12-26 17:02:49 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:02:51 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180714_172324.mp4 has already been uploaded on 2018.12.26 15:25:04 PM
+2018-12-26 17:02:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 25||UploadCount:26
+
+
+
+2018-12-26 17:02:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180707_185900.mp4
+2018-12-26 17:02:52 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:02:54 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:02:55 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180707_185900.mp4 has already been uploaded on 2018.12.26 16:27:14 PM
+2018-12-26 17:02:55 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 26||UploadCount:27
+
+
+
+2018-12-26 17:02:55 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:02:55 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/VID-20181202-WA0094.mp4
+2018-12-26 17:02:55 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201812
+2018-12-26 17:02:57 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:03:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/VID-20181202-WA0094.mp4 has already been uploaded on 2018.12.02 23:02:41 PM
+2018-12-26 17:03:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 27||UploadCount:28
+
+
+
+2018-12-26 17:03:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:03:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180707_190024.mp4
+2018-12-26 17:03:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:03:10 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:03:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180707_190024.mp4 has already been uploaded on 2018.12.26 15:27:25 PM
+2018-12-26 17:03:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 28||UploadCount:29
+
+
+
+2018-12-26 17:03:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:03:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180707_211320.mp4
+2018-12-26 17:03:12 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:03:16 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:03:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180707_211320.mp4 has already been uploaded on 2018.12.26 15:29:17 PM
+2018-12-26 17:03:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 29||UploadCount:30
+
+
+
+2018-12-26 17:03:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:03:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180714_181306.mp4
+2018-12-26 17:03:18 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:03:22 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:03:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180714_181306.mp4 has already been uploaded on 2018.12.26 15:30:34 PM
+2018-12-26 17:03:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 30||UploadCount:31
+
+
+
+2018-12-26 17:03:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:03:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180601_000941.mp4
+2018-12-26 17:03:23 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201806
+2018-12-26 17:03:27 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:03:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180601_000941.mp4 has already been uploaded on 2018.12.26 15:31:36 PM
+2018-12-26 17:03:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 31||UploadCount:32
+
+
+
+2018-12-26 17:03:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:03:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180707_185602.mp4
+2018-12-26 17:03:29 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201807
+2018-12-26 17:03:33 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:03:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180707_185602.mp4 has already been uploaded on 2018.12.26 15:32:45 PM
+2018-12-26 17:03:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 32||UploadCount:33
+
+
+
+2018-12-26 17:03:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:03:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180621_001250.mp4
+2018-12-26 17:03:35 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201806
+2018-12-26 17:03:39 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:03:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180621_001250.mp4 has already been uploaded on 2018.12.26 15:34:00 PM
+2018-12-26 17:03:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 33||UploadCount:34
+
+
+
+2018-12-26 17:03:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:03:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20180516_152508.mp4
+2018-12-26 17:03:40 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201805
+2018-12-26 17:03:45 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:03:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/20180516_152508.mp4 has already been uploaded on 2018.12.26 15:34:45 PM
+2018-12-26 17:03:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 34||UploadCount:35
+
+
+
+2018-12-26 17:03:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:03:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/Happy moment with family.mp4
+2018-12-26 17:03:46 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getCreationTime:lastModifiedTime :201812
+2018-12-26 17:03:50 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:04:00 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  File: /home/dineshmetkari/Downloads/Record/Happy moment with family.mp4 has already been uploaded on 2018.12.26 15:35:19 PM
+2018-12-26 17:04:00 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - RecordsUploaded: 35||UploadCount:36
+
+
+
+2018-12-26 17:04:00 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - #############################################################################
+2018-12-26 17:04:00 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - 
+
+Processing file: /home/dineshmetkari/Downloads/Record/20181006_132721.mp4
+2018-12-26 17:04:00 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - TAG_getPhotoClickTimeFromFileName: :201810
+2018-12-26 17:04:05 [main] INFO  c.m.dinesh.managemymedia.UploadMedia -  Sets retrieved: 120
+2018-12-26 17:04:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - Upload of /home/dineshmetkari/Downloads/Record/20181006_132721.mp4 started at: 2018.12.26 17:04:06 PM
+
+2018-12-26 17:04:06 [main] INFO  c.m.dinesh.managemymedia.UploadMedia - FileName: Original:20181006_132721.mp4 Length:19 Modified:20181006_132721.mp4 Length:19
