@@ -126,7 +126,7 @@ public class OrganizeMedia {
 			while (i.hasNext() && startCount <= maxCount) {
 				startCount = startCount + 1;
 				System.out.println();
-				System.out.print("StartIndex:" + startCount + "	:" + photocount + "   "  );
+				System.out.print("StartIndex:" + startCount +"   "  );
 				photocount += 1;
 				Photo p = ((Photo) i.next());
 				// dumpText.println(set.getId() + ":" + set.getTitle() + ":"
